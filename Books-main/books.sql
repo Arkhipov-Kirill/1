@@ -63,7 +63,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `name`, `email`, `password`) VALUES
-(21, 'Антон', 'stepa.antikeev@mail.ru', '$2y$10$tOXQ7Rmfb9GL2GUmwFOoW.SlpmasOWySLhwBWMxHni3QF5RTRs4zy');
+(21, 'Антон', 'kirill.Arkhipov@mail.ru', '$2y$10$tOXQ7Rmfb9GL2GUmwFOoW.SlpmasOWySLhwBWMxHni3QF5RTRs4zy');
 
 --
 -- Индексы сохранённых таблиц
